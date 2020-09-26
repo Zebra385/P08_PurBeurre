@@ -7,14 +7,11 @@ Django==3.1.1
 django-debug-toolbar==3.1.1
 gunicorn==20.0.4
 idna==2.10
+newrelic==5.20.0.149
 psycopg2-binary==2.8.6
 pytz==2020.1
 requests==2.24.0
 selenium==3.141.0
 sqlparse==0.3.1
 urllib3==1.25.10
-<<<<<<< HEAD
 whitenoise==5.2.0
-=======
-whitenoise==5.2.0
->>>>>>> e0fb0b666c60cdbbdb30d287e1b4149a840608f2
